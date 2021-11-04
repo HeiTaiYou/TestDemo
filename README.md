@@ -1,9 +1,6 @@
 # Reality Work
 
-<<<<<<< Updated upstream
-#### You Liang is a big sb!
-=======
-**<font style="color:purple"> 反套路君</font><font style="color:red"> R社作业</font>**
+**<font style="color:purple">反套路君</font><font style="color:red"> R社作业</font>**
 
 ### GitHub简单使用
 
